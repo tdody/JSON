@@ -7,6 +7,3 @@ This folder contains the following:
   - sliderule_dsi_json_exercise.ipynb: is a two part notebook that contains some tips on using JSON and Pandas and the answers to the mini-project.
   
 For additional details, please refer to the notebook as it contains detailed explanations of the analysis.
-
-By Thibault D.  
-08/08/2017
