@@ -1,4 +1,4 @@
-# Springboard-JSON
+# JSON
 
 This folder contains the following:
   - data folder: contains two JSON files that are used as data source for the project
